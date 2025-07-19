@@ -19,7 +19,12 @@
 - libsql driver
 - Drizzle ORM
 
+### Authentication
+
+- Better Auth
+
 ### Tooling
 
+- pnpm
 - ESLint
 - Prettier
