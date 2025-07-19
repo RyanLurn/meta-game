@@ -9,4 +9,4 @@ const serverEnv = createEnv({
   experimental__runtimeEnv: process.env
 });
 
-export default serverEnv;
+export { serverEnv };

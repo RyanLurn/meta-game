@@ -1,4 +1,4 @@
-import clientEnv from "@/lib/env/client";
+import { clientEnv } from "@/lib/env/client";
 import { createAuthClient } from "better-auth/react";
 
 const authClient = createAuthClient({
@@ -6,4 +6,4 @@ const authClient = createAuthClient({
   baseURL: clientEnv.NEXT_PUBLIC_BETTER_AUTH_URL
 });
 
-export default authClient;
+export { authClient };

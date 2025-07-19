@@ -10,4 +10,4 @@ const clientEnv = createEnv({
   }
 });
 
-export default clientEnv;
+export { clientEnv };
