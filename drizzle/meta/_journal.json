@@ -5,22 +5,8 @@
     {
       "idx": 0,
       "version": "6",
-      "when": 1752758117359,
-      "tag": "0000_living_elektra",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "6",
-      "when": 1752758250759,
-      "tag": "0001_curious_jane_foster",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "6",
-      "when": 1752922585490,
-      "tag": "0002_chunky_unicorn",
+      "when": 1752972505145,
+      "tag": "0000_woozy_liz_osborn",
       "breakpoints": true
     }
   ]

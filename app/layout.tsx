@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "App Template 2",
-  description: "App Template 2"
+  title: "Meta Game",
+  description: "Real business simulation"
 };
 
 export default function RootLayout({
